@@ -25,6 +25,18 @@ terdapat 3 class yaitu
 
 # Penjelasan Program
 
+Disini saat kita menjalankan program maka kita akan menuju ke sebuah tabel yang di mana itu akan berisikan data data dan juga tombol tombol yang memiliki fungsi untuk tabel
+
+kita bisa memulai di tombol add yang di mana itu bisa membuat kita untuk memberikan data baru ke dalam tabel yang di mana harus di isi ID, NAMA, HARGA, KATEGORI DAN STOK dan setelah kita isi kita bisa tekan 
+tombol add agar data baru bisa di tambahkan
+
+lalu kita ke tombol delete yang dimana tombol ini berguna untuk menghapu data yang ingin kita hapus, dengan cara kita memilih data yang ingin kita hapus lalu kita tekan tombol delete maka data
+itu juga akan ikut terhapus
+
+selanjutnya ada update yang dimana ini akan membuat data yang salah ataupun data yang salah ataupun data yang sekiranya ingin di ubah dapat kita ubah dengan cara memilih 1 data dari tabel itu
+lalu kita ubah data itu mau apapun itu yang kita ubah, setelah itu kalau sudah selesai kita tinggal ,menekan tombol update agar datanya bisa benr benar berubah
+
+terakhir ada cancel yang dimana ini akan membatalkan apapun yang ingin kita lakukan mau itu add, update atau delete agar kita tidak jadi menambahkan ataupun hal lainnya yang ingin kita lakukan terhadap tabel tersebut.
 
 
 
