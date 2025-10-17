@@ -9,9 +9,22 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 
 # penjelasan Fitur
 
+Di sini terdapat 4  Fitur yaitu
+
+1. ADD(Fitur untuk menambahkan data yang kita masukan ke dalam  tabel)
+2. Delete(fitur untuk menghapus data yang kita ingin hapus di dalam tabel)
+3. Update(fitur untuk mengubah ataupun memperbarui data di dalam tabel) 
+4. Cancel(fitur untuk membatalkan data yang ingin kita tambah/hapus/perbarui di dalam tabel)
+
+
 # Penjelasan Class
+terdapat 3 class yaitu
+1. Product(sebagai header dari program itu)
+2. Database( sebagai penghubung agar data yang kita masukan atau kita simpan terhubung ke database)
+3. PoductMenu(berisi fungsi dan juga kode untuk menjalankan dan merancang semua desain dan apa yang sekiranya kita inginkan agar kode berjalan dengan baik) 
 
 # Penjelasan Program
+
 
 
 
